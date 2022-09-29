@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://wemerson0014.github.io/nlwSports/)
+[🔗 Clique aqui para acessar](https://wemerson0014.github.io/nlweSports//)
 
 ## 🛠Tecnologias 
 
